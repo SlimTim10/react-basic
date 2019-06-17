@@ -67,3 +67,30 @@ html, body {
   justify-content: center;
   align-items: center;
 }
+
+.post {
+  width: 300px;
+}
+
+.post header {
+  background-color: #753F00;
+  padding: 10px;
+}
+
+.post-title {
+  color: white;
+  font-size: 1.2em;
+}
+
+.post-author {
+  color: #ddd;
+}
+
+.post-content {
+  background-color: #C26800;
+  color: black;
+  padding: 10px;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  font-size: 1.2em;
+}
